@@ -1,0 +1,205 @@
+{
+    "message": "Featured Vehicles List",
+    "error": "0",
+    "code": "200",
+    "results": [
+        {
+            "id": "9645",
+            "make": "FORD",
+            "model": "GT",
+            "vehicle_slug": "ford-gt-35-2dr-9645",
+            "price": "849995.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/317\/9645\/medium\/6547239815",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/b51f490a1d154c75a7f3bf93ffda2a0f.jpg"
+            }
+        },
+        {
+            "id": "15597",
+            "make": "MCLAREN",
+            "model": "SENNA",
+            "vehicle_slug": "mclaren-senna-40-2dr-15597",
+            "price": "899995.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/21\/15597\/medium\/4775699045",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/8ce2a1f051aa4d56a309b8d3e77d0abd.jpg"
+            }
+        },
+        {
+            "id": "38375",
+            "make": "FERRARI",
+            "model": "SF90 STRADALE",
+            "vehicle_slug": "ferrari-sf90-stradale-38375",
+            "price": "336995.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/6\/38375\/medium\/4773170634",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/7fc5a6c1a52d46ca957ff031dfb6c298.jpg"
+            }
+        },
+        {
+            "id": "45135",
+            "make": "FERRARI",
+            "model": "812 GTS",
+            "vehicle_slug": "ferrari-812-gts-65-v-45135",
+            "price": "336950.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/323\/45135\/medium\/2170427415",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/8a751d985f5e48cab768b6a448db4028.jpg"
+            }
+        },
+        {
+            "id": "59594",
+            "make": "LAMBORGHINI",
+            "model": "AVENTADOR",
+            "vehicle_slug": "lamborghini-aventador-59594",
+            "price": "450000.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/394\/59594\/medium\/5591763048",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/5ba0a8f571b546f2a48e5720a34f6e15.jpg"
+            }
+        },
+        {
+            "id": "60356",
+            "make": "ROLLS-ROYCE",
+            "model": "CULLINAN",
+            "vehicle_slug": "rolls-royce-cullinan-60356",
+            "price": "469975.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/20\/60356\/medium\/1896710248",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/87fde597d9784950bb8c5ab5d8a22241.jpg"
+            }
+        },
+        {
+            "id": "67543",
+            "make": "FERRARI",
+            "model": "PUROSANGUE",
+            "vehicle_slug": "ferrari-purosangue-6-67543",
+            "price": "429995.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/320\/67543\/medium\/4001827944",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/756fa6c1605947cc8c21ea2677644ac4.jpg"
+            }
+        },
+        {
+            "id": "76400",
+            "make": "ASTON MARTIN",
+            "model": "VANQUISH",
+            "vehicle_slug": "aston-martin-vanquish-76400",
+            "price": "389990.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/576\/76400\/medium\/9236726455",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/0b1a4d369adf4b91975f22ad09fcee8b.jpg"
+            }
+        },
+        {
+            "id": "88413",
+            "make": "LAMBORGHINI",
+            "model": "REVUELTO",
+            "vehicle_slug": "lamborghini-revuelto-88413",
+            "price": "599991.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/596\/88413\/medium\/4962910270",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/a981b96092864048b700743a6060071a.jpg"
+            }
+        },
+        {
+            "id": "103672",
+            "make": "PORSCHE",
+            "model": "911",
+            "vehicle_slug": "porsche-911-36-997-g-103672",
+            "price": "359850.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/407\/103672\/medium\/5186604518",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/b4928ad2d6334f24989335ce3baa4414.jpg"
+            }
+        },
+        {
+            "id": "107499",
+            "make": "ROLLS-ROYCE",
+            "model": "GHOST",
+            "vehicle_slug": "rolls-royce-ghost-202-107499",
+            "price": "335000.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/348\/107499\/medium\/3117881473",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/38d25b3991a7469e8ec6941c4c31bb26.jpg"
+            }
+        },
+        {
+            "id": "110238",
+            "make": "ROLLS-ROYCE",
+            "model": "PHANTOM",
+            "vehicle_slug": "rolls-royce-phantom-2-110238",
+            "price": "399950.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/605\/110238\/medium\/4195379382",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/62dc6774882144f19db40fed04fbfe5c.jpg"
+            }
+        },
+        {
+            "id": "111111",
+            "make": "JAGUAR",
+            "model": "E-TYPE",
+            "vehicle_slug": "jaguar-e-type-1961-b-111111",
+            "price": "999950.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/16\/111111\/medium\/8105391484",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/e41a01e971b34c4ebf1c1d020beba916.jpg"
+            }
+        },
+        {
+            "id": "113306",
+            "make": "FERRARI",
+            "model": "812 SUPERFAST",
+            "vehicle_slug": "ferrari-812-superfast-113306",
+            "price": "349000.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/206\/113306\/medium\/3879719788",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/3611c72601514ecfaaebae706d73d3be.jpg"
+            }
+        },
+        {
+            "id": "119237",
+            "make": "FERRARI",
+            "model": "SF90 SPIDER",
+            "vehicle_slug": "ferrari-sf90-spider-2-119237",
+            "price": "385000.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/1629\/119237\/medium\/9455267368",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/1e4742391f504534b68a451380000df0.jpg"
+            }
+        },
+        {
+            "id": "119563",
+            "make": "LAMBORGHINI",
+            "model": "AVENTADOR",
+            "vehicle_slug": "lamborghini-aventador-119563",
+            "price": "576991.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/203\/119563\/medium\/4030816011",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/95b6cbd9e05a4fe39eee2b8b3ff5fdab.jpg"
+            }
+        },
+        {
+            "id": "121822",
+            "make": "LAMBORGHINI",
+            "model": "REVUELTO",
+            "vehicle_slug": "lamborghini-revuelto-121822",
+            "price": "545000.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/1626\/121822\/medium\/7719865833",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/e0a9cd52a1134133aa2cef98ee8c5162.jpg"
+            }
+        },
+        {
+            "id": "124530",
+            "make": "ROLLS-ROYCE",
+            "model": "PHANTOM",
+            "vehicle_slug": "rolls-royce-phantom-2-124530",
+            "price": "395000.00",
+            "image": {
+                "internal": "https:\/\/ca-sb.ams3.digitaloceanspaces.com\/vehicles\/1470\/124530\/medium\/6355757449",
+                "external": "https:\/\/m.atcdn.co.uk\/a\/media\/{resize}\/069c6e8d8b4f4cb791ac674249a88807.jpg"
+            }
+        }
+    ]
+}
